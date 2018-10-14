@@ -2,6 +2,10 @@
 
 ## Learned so far
 - RESTful services using node and express
+    - GET
+    - POST
+    - PUT
+    - DELETE
 - nodemon
 - run on port taken from environment variable
 - joi for validating requests
