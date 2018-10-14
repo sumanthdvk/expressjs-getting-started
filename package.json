@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sumanthdvk/expressjs-getting-started#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "joi": "^13.7.0"
   }
 }
